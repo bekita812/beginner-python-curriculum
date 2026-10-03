@@ -2,7 +2,8 @@
 # Ask user for two test scores.
 # If BOTH scores are at least 50, print "You passed both!"
 # Otherwise, print "You failed at least one."
-
+hey did you fail these tests
+yeah i did
 
 
 # Problem 2
@@ -11,14 +12,14 @@
 # If they brought both, print "You're fully ready!"
 # If they brought neither, print "You're not ready."
 
-
+why
 
 # Problem 3
 # Ask user to enter a number.
 # If the number is NOT between 1 and 10 (inclusive), print "Out of range."
 # Otherwise, print "In range."
 
-
+its not
 
 # Problem 4
 # Ask the user for a test score (0-100).
@@ -29,9 +30,10 @@
 #   60 to 69: "D"
 #   below 60: "F"
 
-
+a yeah
 
 # Problem 5
 # Ask the user for two numbers.
 # If one is divisible by 5 AND the other is NOT divisible by 2, print "Interesting pair!"
 # Otherwise, print "Plain pair."
+plain pair
